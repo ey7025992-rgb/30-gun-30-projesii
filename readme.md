@@ -1,1 +1,0 @@
-'# Sayı Tahmin Oyunu\n\nBilgisayar 1-100 arası rastgele bir sayı tutar, kullanıcı tahmin eder. Çalıştırmak için: python main.py'
