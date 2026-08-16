@@ -1,0 +1,4 @@
+Python öğrenmek başta zor görünebilir ama pratik yaptıkça kolaylaşır.
+Her gün küçük bir proje yapmak, büyük bir proje yapmaktan daha etkilidir.
+Kod yazarken hata almak normaldir, önemli olan hatalardan öğrenmektir.
+GitHub'a düzenli olarak kod yüklemek, hem motivasyonu artırır hem de portföy oluşturur.
