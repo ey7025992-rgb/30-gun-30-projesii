@@ -1,0 +1,18 @@
+[
+  {
+    "baslik": "Bugün en az 5 tane proje geliştirip githupa yükleyeceğim",
+    "tamamlandi": false
+  },
+  {
+    "baslik": "2 litre su içeceğim",
+    "tamamlandi": true
+  },
+  {
+    "baslik": "cilt bakımı yapacağım",
+    "tamamlandi": false
+  },
+  {
+    "baslik": "50 sayfa kitap okuyacağım",
+    "tamamlandi": false
+  }
+]
